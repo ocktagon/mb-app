@@ -1,6 +1,0 @@
-[requires]
-python_version = "3.7.3"
-django_version = "2.2.0"
-
-[packages]
-gunicorn = "==19.9.0"
